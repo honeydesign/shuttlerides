@@ -1,6 +1,6 @@
 # shuttleride
 
-This is an app for ordering keke rides
+This is an app for ordering rides
 
 ## Getting Started
 
