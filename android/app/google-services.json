@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572691402131",
+    "project_id": "shuttleride-1bd0a",
+    "storage_bucket": "shuttleride-1bd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572691402131:android:2230ed2f0f72e12ce56c66",
+        "android_client_info": {
+          "package_name": "com.cisco.shuttleride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAM2IcWjtY_eTJ_lBqCwdtkLxJ2QlSbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
